@@ -87,6 +87,7 @@
       "operationGenerationMode": "MultipleClientsFromOperationId",
       "includedOperationIds": [],
       "excludedOperationIds": [],
+      "excludeDeprecated": [],
       "markOptionalProperties": true,
       "generateCloneMethod": false,
       "typeStyle": "Class",
